@@ -1,4 +1,4 @@
-# Opencore-XPS-9510-Hackintosh-Attempt
+# Opencore-XPS-9510-Hackintosh-SUCCESS
 
 I haven't seen anyone try to put hackintosh on the 9510, so I thought I'd give it a try.
 
