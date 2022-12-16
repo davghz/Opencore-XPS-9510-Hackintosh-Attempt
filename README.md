@@ -7,3 +7,7 @@ Type this is the shell when it boots up.
 
         setup_var_cv CpuSetup 0x43 0x01 0x00
 CFG is now unlocked!
+
+EDIT: 12/16/22
+I got it to work til the installation screen. It kept crashing with only like 11 or 12 minutes remaining.
+I gave up after a while
