@@ -1,0 +1,116 @@
+{
+  "checked_at": "2026-11-01T07:44:03.728047+00:00",
+  "identity": {
+    "sys_vendor": "Dell Inc.",
+    "product_name": "XPS 15 9510",
+    "board_vendor": "Dell Inc.",
+    "board_name": "01V4T3",
+    "bios_version": "1.47.0",
+    "bios_date": "05/31/2026"
+  },
+  "cfg_byte": 0,
+  "cpus": [
+    {
+      "cpu": 0,
+      "msr_e2": "0x0000000074000008",
+      "cfg_lock_bit15": 0
+    },
+    {
+      "cpu": 1,
+      "msr_e2": "0x0000000074000008",
+      "cfg_lock_bit15": 0
+    },
+    {
+      "cpu": 2,
+      "msr_e2": "0x0000000074000008",
+      "cfg_lock_bit15": 0
+    },
+    {
+      "cpu": 3,
+      "msr_e2": "0x0000000074000008",
+      "cfg_lock_bit15": 0
+    },
+    {
+      "cpu": 4,
+      "msr_e2": "0x0000000074000008",
+      "cfg_lock_bit15": 0
+    },
+    {
+      "cpu": 5,
+      "msr_e2": "0x0000000074000008",
+      "cfg_lock_bit15": 0
+    },
+    {
+      "cpu": 6,
+      "msr_e2": "0x0000000074000008",
+      "cfg_lock_bit15": 0
+    },
+    {
+      "cpu": 7,
+      "msr_e2": "0x0000000074000008",
+      "cfg_lock_bit15": 0
+    },
+    {
+      "cpu": 8,
+      "msr_e2": "0x0000000074000008",
+      "cfg_lock_bit15": 0
+    },
+    {
+      "cpu": 9,
+      "msr_e2": "0x0000000074000008",
+      "cfg_lock_bit15": 0
+    },
+    {
+      "cpu": 10,
+      "msr_e2": "0x0000000074000008",
+      "cfg_lock_bit15": 0
+    },
+    {
+      "cpu": 11,
+      "msr_e2": "0x0000000074000008",
+      "cfg_lock_bit15": 0
+    },
+    {
+      "cpu": 12,
+      "msr_e2": "0x0000000074000008",
+      "cfg_lock_bit15": 0
+    },
+    {
+      "cpu": 13,
+      "msr_e2": "0x0000000074000008",
+      "cfg_lock_bit15": 0
+    },
+    {
+      "cpu": 14,
+      "msr_e2": "0x0000000074000008",
+      "cfg_lock_bit15": 0
+    },
+    {
+      "cpu": 15,
+      "msr_e2": "0x0000000074000008",
+      "cfg_lock_bit15": 0
+    }
+  ],
+  "errors": [],
+  "payload_size": 654,
+  "attributes": 7,
+  "online_cpus": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "status": "unlocked"
+}

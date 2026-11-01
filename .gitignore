@@ -1,0 +1,11 @@
+/.local/
+__pycache__/
+*.pyc
+/tools/cpu-unlock/*.efivar
+/tools/cpu-unlock/early-cfg/expected.h
+/tools/cpu-unlock/early-cfg/installation.json
+/tools/cpu-unlock/early-cfg/*.o
+/tools/cpu-unlock/early-cfg/*.so
+/tools/cpu-unlock/early-cfg/*.efi
+/tools/cpu-unlock/early-cfg/vm-test/
+/tools/cpu-unlock/early-cfg/vm-test-result.json
