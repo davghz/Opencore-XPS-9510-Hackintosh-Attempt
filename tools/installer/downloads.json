@@ -1,0 +1,66 @@
+{
+  "opencore": {
+    "url": "https://github.com/acidanthera/OpenCorePkg/releases/download/1.0.8/OpenCore-1.0.8-DEBUG.zip",
+    "sha256": "3f5f42b85703cf2c08e8dcd9245a52fb4326c9f4ef335c75b49f516cbbe131c6"
+  },
+  "lilu": {
+    "url": "https://github.com/acidanthera/Lilu/releases/download/1.7.2/Lilu-1.7.2-DEBUG.zip",
+    "sha256": "e95df95d82e8b151047abf359ecd9c853755c59293e19dfcc3907da8fbd8cf89"
+  },
+  "virtualsmc": {
+    "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.3.8/VirtualSMC-1.3.8-DEBUG.zip",
+    "sha256": "d1a13a4ad5564f97d4fa4cb584eaa63cb4fbe280c6997100133789dd4bdac200"
+  },
+  "ps2": {
+    "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.3.7/VoodooPS2Controller-2.3.7-RELEASE.zip",
+    "sha256": "d5483298736ba4b3b82c7203d9a46968c668fb7af732b8b22c2096deb0acf83f"
+  },
+  "i2c-release": {
+    "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/v2.9.1/VoodooI2C-2.9.1-RELEASE.zip",
+    "sha256": "368e5eb60794583c340764813bd7e8244e94d3d3c06ea5b67034addd539487f4"
+  },
+  "whatevergreen": {
+    "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.7.1/WhateverGreen-1.7.1-DEBUG.zip",
+    "sha256": "f6f4ff75239fd9dcc40bb432eaf1342f9ebf509a9581f54ba536af4f17f11680"
+  },
+  "nvmefix": {
+    "url": "https://github.com/acidanthera/NVMeFix/releases/download/1.1.3/NVMeFix-1.1.3-DEBUG.zip",
+    "sha256": "14bddc4d7336f5a781dd3201afd174ebe117b584e62f98e6f2acad50c8b5ffda"
+  },
+  "realtekcardreader": {
+    "url": "https://github.com/0xFireWolf/RealtekCardReader/releases/download/v0.9.7/RealtekCardReader_0.9.7_006a845_RELEASE.zip",
+    "sha256": "48c21aaf8e83e21220ca417351e75c98b16930f0ce311bb3f651d163bd694760"
+  },
+  "native-i2c": {
+    "url": "https://codeload.github.com/VoodooI2C/VoodooI2C/zip/5c0c99cc451b03790c684ce6552c3f61620ad46b",
+    "sha256": "18a430ae1f880d166d79c8d2944dd08bca9b1858f256c875fd1ead5539068613"
+  },
+  "native-hid": {
+    "url": "https://codeload.github.com/VoodooI2C/VoodooI2CHID/zip/a478fd605043989269584a73e23a15cc78994f5b",
+    "sha256": "412ec6b113d79af86a2f923f46b0feb97731d46ffe41cc9b9b9b4415cfa7dfb9"
+  },
+  "native-input": {
+    "url": "https://codeload.github.com/acidanthera/VoodooInput/zip/8a8ac2bd7f0c3a153e2e5e20340ab31a00459660",
+    "sha256": "403e3e1f80f4592dc4dcc15f7658178bd0307effa231a852e1c0e0f53fdbffaf"
+  },
+  "native-gpio": {
+    "url": "https://codeload.github.com/VoodooI2C/VoodooGPIO/zip/733dc8063f5ef07288a7bc648fff5348df6d8f65",
+    "sha256": "3627169b1e4343730359a5147dc0e665af843082836ab9ba477eafd0698d2af3"
+  },
+  "native-sdk": {
+    "url": "https://codeload.github.com/acidanthera/MacKernelSDK/zip/3f750085caa17ec3a7880f11c11bf4f48cd6a164",
+    "sha256": "f028466e8a18cae2e95724152f915a44afc6352a8a80ae3d85567c55b6c1d60d"
+  },
+  "native-i2c-hid-base": {
+    "url": "https://codeload.github.com/VoodooI2C/VoodooI2C/zip/e3ac3ed207170c39db88d6a67a76cc9fd3a1895a",
+    "sha256": "a0b817b842e78baa5e7d59f33f83adafe5cfcd4a59241dcca11741f2e51dab68"
+  },
+  "native-airport-tahoe": {
+    "url": "https://github.com/laobamac/itlwm/releases/download/v2.4.0-alpha/AirportItlwm-Tahoe-v2.4.0-RELEASE-alpha-7204c69.zip",
+    "sha256": "a5d098e6752592435c021aa6e8d08c64ee6aab9f2786660a6c72d7af1218fcf9"
+  },
+  "native-toolchain": {
+    "url": "https://codeload.github.com/tpoechtrager/cctools-port/tar.gz/e79d784d667816e4b15a0abd78828f9abb0a0b99",
+    "sha256": "b671248580a21431cd890cb9e57a973d54a60132a257ef3a7c0c925d4052e066"
+  }
+}
